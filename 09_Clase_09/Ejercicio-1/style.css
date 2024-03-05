@@ -1,0 +1,21 @@
+#body-in {
+    background-image: url(/JavaScript/09_Clase_09/Ejercicio-1/Img/fondo-bloques.jpg);
+    color: white;
+    font-size: larger;
+    text-shadow: 5px 10px 15px black;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+fieldset {
+    justify-content: center;
+    text-align: center;
+}
+
+#div-section {
+    display: flex;
+    justify-content: center;
+}
